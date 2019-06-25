@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//check
 public class EqualOrNot {
     //constractor
     public EqualOrNot() {
